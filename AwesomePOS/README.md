@@ -1,7 +1,7 @@
 ### 用Vue2.0简单的收银系统：
 一个简单的收银的系统的SAP
 ### 技术栈：
-vue-cli + element-ui + axios + vue-router
+### vue-cli + element-ui + axios + vue-router
 ### 项目截图：
 <img src="https://github.com/yangfandashuaige/AwesomeVue/blob/master/AwesomePOS/gif/vue.gif"/><br />
 
